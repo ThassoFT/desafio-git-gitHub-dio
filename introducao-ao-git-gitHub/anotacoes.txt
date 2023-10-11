@@ -1,0 +1,4 @@
+link para repositorio: https://github.com/ThassoFT/desafio-git-gitHub-dio
+
+-Git é uma ferramenta de versionamento.
+-Git bash é um terminal extendido para otimizar o uso do git.
